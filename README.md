@@ -21,17 +21,10 @@ uploaded images to:
 -  FastAPI backend + React frontend\
 -  Bounding box visualization on detected clothing
 
-------------------------------------------------------------------------
-
-<<<<<<< HEAD
-=======
 ## Demo Screenshot
 
 ![AI Fashion Recommendation System Demo](assets/ui-demo.jpg)
 
-------------------------------------------------------------------------
-
->>>>>>> 99affee (Update README and add demo screenshot)
 ## Tech Stack
 
 ### Backend
