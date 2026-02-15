@@ -23,6 +23,15 @@ uploaded images to:
 
 ------------------------------------------------------------------------
 
+<<<<<<< HEAD
+=======
+## Demo Screenshot
+
+![AI Fashion Recommendation System Demo](assets/ui-demo.jpg)
+
+------------------------------------------------------------------------
+
+>>>>>>> 99affee (Update README and add demo screenshot)
 ## Tech Stack
 
 ### Backend
@@ -108,7 +117,14 @@ Frontend runs at: http://localhost:3000
 
 ## 👨‍💻 Author(s)
 
+<<<<<<< HEAD
 Aditya
 Mann
 Tanmay
 Aakash
+=======
+Aditya Raj  
+Mann Desai  
+Tanmay Sahasrabudhe  
+Aakash Patil  
+>>>>>>> 99affee (Update README and add demo screenshot)
