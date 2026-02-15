@@ -1,0 +1,24 @@
+.env
+.node_modules
+dist
+build
+.DS_Store
+*.log
+*.env
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+.venv
+__pycache__
+
+backend/venv/
+venv/
+.env
+
+backend/services/.env
+
+backend/models/best.pt
+# Model weights
+*.pt
+backend/model/best.pt

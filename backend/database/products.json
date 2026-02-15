@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "class": "short_sleeved_shirt",
+    "color": "blue",
+    "title": "Blue Casual Shirt",
+    "price": "$29",
+    "image": "short_sleeved_shirt/blue1.jpg",
+    "category": "shirts"
+  }
+]
