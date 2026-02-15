@@ -106,6 +106,9 @@ Frontend runs at: http://localhost:3000
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+## 👨‍💻 Author(s)
 
-Aditya Raj
+Aditya
+Mann
+Tanmay
+Aakash
