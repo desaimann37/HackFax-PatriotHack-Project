@@ -50,13 +50,28 @@ uploaded images to:
 
 ## 📂 Project Structure
 
-backend/ ├── main.py ├── services/ │ ├── yolo_service.py │ ├──
-gemini_service.py │ └── recommendation_service.py ├── database/ │ ├──
-products.json │ └── product_images/ └── requirements.txt
-
-frontend/ ├── src/ │ ├── components/ │ │ ├── ChatWindow.js │ │ └──
-ImageUploader.js │ ├── App.js │ ├── App.css │ └── index.js └──
-package.json
+project-root/
+│
+├── backend/
+│   ├── main.py
+│   ├── services/
+│   │   ├── yolo_service.py
+│   │   ├── gemini_service.py
+│   │   └── recommendation_service.py
+│   ├── database/
+│   │   ├── products.json
+│   │   └── product_images/
+│   └── requirements.txt
+│
+└── frontend/
+    ├── src/
+    │   ├── components/
+    │   │   ├── ChatWindow.js
+    │   │   └── ImageUploader.js
+    │   ├── App.js
+    │   ├── App.css
+    │   └── index.js
+    └── package.json
 
 ------------------------------------------------------------------------
 
