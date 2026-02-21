@@ -50,28 +50,7 @@ uploaded images to:
 
 ## 📂 Project Structure
 
-project-root/
-│
-├── backend/
-│   ├── main.py
-│   ├── services/
-│   │   ├── yolo_service.py
-│   │   ├── gemini_service.py
-│   │   └── recommendation_service.py
-│   ├── database/
-│   │   ├── products.json
-│   │   └── product_images/
-│   └── requirements.txt
-│
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   │   ├── ChatWindow.js
-    │   │   └── ImageUploader.js
-    │   ├── App.js
-    │   ├── App.css
-    │   └── index.js
-    └── package.json
+<img width="872" height="600" alt="image" src="https://github.com/user-attachments/assets/7d8d2148-15dc-447b-a60a-916352fda29d" />
 
 ------------------------------------------------------------------------
 
