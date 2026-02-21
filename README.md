@@ -106,6 +106,9 @@ Frontend runs at: http://localhost:3000
 
 ------------------------------------------------------------------------
 
+## Demonstration:
+
+[Click here to try the demo](https://youtu.be/3G-lWe0EQRk?si=J6wv45aPrgkZnTyc)
 ## 👨‍💻 Author(s)
 
 Aditya Raj  
