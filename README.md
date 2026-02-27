@@ -73,8 +73,6 @@ Run backend:
 
 uvicorn main:app --reload
 
-Backend runs at: http://localhost:8000
-
 ------------------------------------------------------------------------
 
 ### Frontend Setup
@@ -82,8 +80,6 @@ Backend runs at: http://localhost:8000
 cd frontend\
 npm install\
 npm start
-
-Frontend runs at: http://localhost:3000
 
 ------------------------------------------------------------------------
 
@@ -111,6 +107,11 @@ Frontend runs at: http://localhost:3000
 [Click here to try the demo](https://youtu.be/3G-lWe0EQRk?si=J6wv45aPrgkZnTyc)
 ## 👨‍💻 Author(s)
 
+------------------------------------------------------------------------
+
+Deployment: [Deployment](https://fashion-ai-frontend-pied.vercel.app/)
+
+-------------------------------------------------------------------------
 Aditya Raj  
 Mann Desai  
 Tanmay Sahasrabudhe  
