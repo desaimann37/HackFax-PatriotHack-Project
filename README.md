@@ -3,7 +3,7 @@
 An AI-powered fashion recommendation web application that analyzes
 uploaded images to:
 
--   Detect clothing using YOLOv8
+-   Detect clothing using YOLOv26
 -   Identify perceived gender and clothing color using Google Gemini
     Vision
 -   Recommend matching products
