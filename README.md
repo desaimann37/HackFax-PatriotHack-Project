@@ -13,7 +13,7 @@ uploaded images to:
 
 ## Features
 
--  Clothing detection with YOLOv8\
+-  Clothing detection with YOLOv26\
 -  Color detection using Gemini Vision\
 -  Perceived gender detection\
 -  Smart product recommendations\
