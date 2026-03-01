@@ -86,7 +86,7 @@ npm start
 ## 🔄 How It Works
 
 1.  User uploads an image.\
-2.  YOLOv8 detects clothing and draws bounding boxes.\
+2.  YOLOv26 detects clothing and draws bounding boxes.\
 3.  Gemini Vision analyzes gender and clothing color.\
 4.  Backend filters matching products.\
 5.  Gemini generates a styling explanation.\
@@ -104,12 +104,12 @@ npm start
 
 ## Demonstration:
 
-[Click here to try the demo](https://youtu.be/3G-lWe0EQRk?si=J6wv45aPrgkZnTyc)
+[Youtube Demo Link](https://youtu.be/3G-lWe0EQRk?si=J6wv45aPrgkZnTyc)
 ## 👨‍💻 Author(s)
 
 ------------------------------------------------------------------------
 
-Deployment: [Deployment](https://fashion-ai-frontend-pied.vercel.app/)
+Deployment: [Deployment Link](https://fashion-ai-frontend-pied.vercel.app/)
 
 -------------------------------------------------------------------------
 Aditya Raj  
